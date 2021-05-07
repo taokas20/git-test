@@ -1,6 +1,6 @@
 public class Common {
 
-    public void test(String enterprise) {
+    public void test(int common, String enterprise) {
         return;
     }
 
